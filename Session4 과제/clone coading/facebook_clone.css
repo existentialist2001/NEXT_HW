@@ -1,0 +1,48 @@
+.biggest_box {
+height: 1000px;
+width: 1000px;
+}
+
+.box_1 { 
+    width: 800px;
+    display:flex;
+    
+    height: 100px;
+    color:blue;
+    justify-content:space-between;   
+}
+.box_1_imgs { 
+            width: 200px;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+.box_2 { 
+    width :800px;
+    height:9%;
+    display:flex;
+    justify-content:space-between;
+    border-bottom: 2px solid gray;
+}
+
+.box_3 {
+    padding-top: 20px;
+    display:flex;
+    width: 800px;
+    height: 10%;
+    justify-content:space-between;
+}
+.box_3_1 {display:flex;}
+.box_4_text { font-size: larger;
+            font-weight: 500;
+            font-family: 'Noto Sans KR', sans-serif;
+            width: 800px;}
+.box_5{ width: 800px;
+        height: 100px;
+        display:flex;
+        justify-content: space-between;
+}
+.box_5_1{display:flex;
+    align-items: center;
+    width:13%;}      
